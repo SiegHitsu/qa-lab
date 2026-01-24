@@ -1,0 +1,8 @@
+Login
+
+Expeceted result:
+	Log in in the accout
+Result: 
+	Ok, suscessfully
+Severity: 
+	NA

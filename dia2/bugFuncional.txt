@@ -1,0 +1,25 @@
+Type: functional
+
+Steps:
+	Case 1:
+	Go to notifications
+	Select configurarion
+	The windows will show my accout
+	On each tab with new updates will show a blue icon
+	Whn press one of the tabs the blue icon dissapear from other tabs
+	Reload the page to see the news again
+	
+	Case 2:
+	Go to profile icon
+	Select my profile
+	It will show my accout tab
+	There is not updates but if you acces from notificartion you will see the new symbol
+Exepected result:
+	The blue icon do not show anymore once time it has been selected
+Result:
+	On the case one the blue icon dissapear
+	On the second case do not show any new open before
+Severity:
+	Low
+Impact:
+	Make thge user feel thete there is news on those tabs

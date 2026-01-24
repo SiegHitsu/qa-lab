@@ -1,0 +1,4 @@
+Today i lean that you do not need to be an expert to detect bugs
+Tht not all the application are pefecet and alway you can find something to improve
+That the enterprise focus on the firts as deleievy an thet make them lose the quiality of the profuct
+That always must be a test team because the developer just many times cannot see more of the code works

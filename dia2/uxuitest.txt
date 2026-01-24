@@ -1,0 +1,14 @@
+Type: UX/UI
+
+Steps:
+	Go to home page 
+	Select categories dopdown
+	Drop down
+Expected Result:
+	Header be fixed and the option from categories move on a scroll
+Result:	
+	All the page move and there is not a scroll on the drop down when they are may options
+Severity:
+	Low
+Impact: 		
+	The page moves, meke feeel if you scroll down on the drop down the page is moving

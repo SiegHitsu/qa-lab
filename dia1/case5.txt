@@ -1,0 +1,17 @@
+Navigation
+
+Type: Usability
+
+Steps:
+	Go to home page
+	See the tabs bars and choose one of them
+
+Expected result: 
+	The active option change of color or show that has been seleceted
+
+Result:	
+	No one chnages after press one tab, just the conatent is updated by nothis show you the current tab
+Severity:
+	Nice to have
+Impact: 
+	This impact the accesisbility with the user, sinsce the use do nok twhat is the current tab

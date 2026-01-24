@@ -1,0 +1,4 @@
+Filters
+
+Filter seletected full delivery items the result was regular, shows the ietem a similar items all from full delivery
+items

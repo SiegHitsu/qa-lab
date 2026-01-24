@@ -1,0 +1,7 @@
+Add to cart
+
+Expected result: Item be added tio the cart inclusive if i decide to slect many of them
+
+Result: Item added suscessfully
+
+Severity: NA

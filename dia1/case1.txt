@@ -1,0 +1,5 @@
+Search
+
+Object: casco bicileta
+Result: Ok
+The system retunf exepected objecet inclusive when the word bicicle has a typo
